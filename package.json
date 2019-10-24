@@ -1,0 +1,20 @@
+{
+  "name": "eslint-preset-essential",
+  "version": "0.0.1",
+  "description": "Essential eslint configs",
+  "main": "index.js",
+  "repository": "PlayMa256/eslint-preset-essential",
+  "keywords": [],
+  "author": {
+    "name": "Matheus Gonçalves da Silva",
+    "email": "matheus.g.silva@hotmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^6.5.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-react": "^7.16.0",
+    "prettier": "^1.18.2"
+  }
+}
