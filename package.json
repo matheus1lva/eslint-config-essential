@@ -1,10 +1,13 @@
 {
   "name": "eslint-preset-essential",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Essential eslint configs",
   "main": "index.js",
   "repository": "PlayMa256/eslint-preset-essential",
-  "keywords": [],
+  "keywords": [
+    "eslint",
+    "config"
+  ],
   "author": {
     "name": "Matheus Gonçalves da Silva",
     "email": "matheus.g.silva@hotmail.com"
