@@ -198,7 +198,7 @@
           "**/__tests__/**",
           "test.js",
           "test-*.js",
-          "**/*.test.js",
+          "**/*.test.js"
         ],
         "optionalDependencies": false
       }

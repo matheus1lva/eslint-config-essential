@@ -1,4 +1,4 @@
-# eslint-preset-essential
+# eslint-config-essential
 
 Eslint must stop you from doing dumb mistakes, not to annoy you with useless rules. 
 
@@ -6,7 +6,7 @@ Eslint must stop you from doing dumb mistakes, not to annoy you with useless rul
 
 ## Install
 ```sh
-$ npm install eslint-preset-essential --save-dev
+$ npm install eslint-config-essential --save-dev
 ```
 
 
