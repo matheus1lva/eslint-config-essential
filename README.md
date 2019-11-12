@@ -22,7 +22,7 @@ $ npm install eslint-config-essential --save-dev
 ## Usage
 edit your eslint config file and add:
 
-```
+```json
 {
   "extends": "essential"
 }
