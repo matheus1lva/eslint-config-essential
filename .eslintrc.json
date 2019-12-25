@@ -7,7 +7,8 @@
         "es6": true,
         "node": true,
         "jest": true,
-        "mocha": true
+        "mocha": true,
+        "browser": true
     },
     "settings": {
         "import/resolver": {
