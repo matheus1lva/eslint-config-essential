@@ -28,3 +28,8 @@ edit your eslint config file and add:
 }
 ```
 
+If you want to use new features, you must install a parser. What i mean by that: `babel-eslint` or `ts-lint`, this gives the ability to 
+parse new features of ecmascript to be used by eslint. So eslint is able to understand it.
+
+This config should be used just as an extension, not as a main rule.
+
