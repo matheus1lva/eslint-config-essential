@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-essential",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Essential eslint configs",
   "main": "index.js",
   "repository": "PlayMa256/eslint-config-essential",
